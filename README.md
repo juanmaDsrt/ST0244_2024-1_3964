@@ -5,5 +5,6 @@ Por favor modifica este archivo incluyendo tu nombre completo y tu correo electr
 
 Nombre Completo -> Correo electrónico Institucional
 
-Diego Iván Cruz Ordiéres -> dcruzo@eafit.edu.co
+Pedro Santiago Mafla Jaramillo -> psmaflaj@eafit.edu.co
+
 
