@@ -38,3 +38,4 @@ luciana Hoyos Perez -> lhoyosp1@eafit.edu.co
 
 Samuel Molina Echeverri -> smolinae2@eafit.edu.co
 
+Jaider España Paternina -> jespanap@eafit.edu.co
