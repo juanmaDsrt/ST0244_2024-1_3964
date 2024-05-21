@@ -4,6 +4,8 @@ Por favor modifica este archivo incluyendo tu nombre completo y tu correo electr
 
 Nombre completo -> Correo electrónico institucional
 
+Juan Manuel Florez Robledo -> jmflorezr@eafit.edu.co
+
 Daniel López Londoño -> dlopezl4@eafit.edu.co
 
 Sebastian Andres Medina Cabezas -> samedinac@eafit.edu.co
